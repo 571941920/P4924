@@ -15,6 +15,7 @@ int main()
 	{
 		array1[i] = new int[n];
 	}
+
 	int** array = new int* [n];
 	for (size_t i = 0; i < n; i++)
 	{
